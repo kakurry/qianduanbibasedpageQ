@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2631f8fb-d401-4e45-8da1-a2e78a07021b" name="Default" comment="" />
+    <ignored path="毕业设计前端.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="毕业设计前端" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="liuyanban.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyanban.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.785714" vertical-offset="4902" max-vertical-offset="6669">
+              <caret line="268" column="17" selection-start-line="268" selection-start-column="15" selection-end-line="269" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1526903105787" expanded="true" signature="8302:8341" placeholder="..." />
+                <marker date="1526903105787" expanded="true" signature="10431:10459" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dianping.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dianping.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-56.642857" vertical-offset="4228" max-vertical-offset="10849">
+              <caret line="306" column="59" selection-start-line="306" selection-start-column="59" selection-end-line="306" selection-end-column="59" />
+              <folding>
+                <marker date="1526900230551" expanded="false" signature="12672:12711" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/map.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30265486" vertical-offset="0" max-vertical-offset="817">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.535714" vertical-offset="2782" max-vertical-offset="11514">
+              <caret line="159" column="56" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/jiaotong.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/zhuce.html" />
+        <option value="$PROJECT_DIR$/caipinxiangqing.html" />
+        <option value="$PROJECT_DIR$/map.html" />
+        <option value="$PROJECT_DIR$/xianglazhudu.html" />
+        <option value="$PROJECT_DIR$/malatianluo.html" />
+        <option value="$PROJECT_DIR$/shuizhuyu.html" />
+        <option value="$PROJECT_DIR$/chuancai.html" />
+        <option value="$PROJECT_DIR$/xianglasurou.html" />
+        <option value="$PROJECT_DIR$/mapodoufu.html" />
+        <option value="$PROJECT_DIR$/xiangcai.html" />
+        <option value="$PROJECT_DIR$/yuecai.html" />
+        <option value="$PROJECT_DIR$/frenchcai.html" />
+        <option value="$PROJECT_DIR$/jingtouhaitai.html" />
+        <option value="$PROJECT_DIR$/xiangzhiniupai.html" />
+        <option value="$PROJECT_DIR$/tesetiandian.html" />
+        <option value="$PROJECT_DIR$/tilamisu.html" />
+        <option value="$PROJECT_DIR$/gongwenyu.html" />
+        <option value="$PROJECT_DIR$/xiangzhipangxie.html" />
+        <option value="$PROJECT_DIR$/koreacai.html" />
+        <option value="$PROJECT_DIR$/japancai.html" />
+        <option value="$PROJECT_DIR$/dianping.html" />
+        <option value="$PROJECT_DIR$/choudoufu.html" />
+        <option value="$PROJECT_DIR$/yinghuashousi.html" />
+        <option value="$PROJECT_DIR$/laopaocai.html" />
+        <option value="$PROJECT_DIR$/lengmian.html" />
+        <option value="$PROJECT_DIR$/zicaibaofan.html" />
+        <option value="$PROJECT_DIR$/tudouroumobing.html" />
+        <option value="$PROJECT_DIR$/zhajitui.html" />
+        <option value="$PROJECT_DIR$/meiweishala.html" />
+        <option value="$PROJECT_DIR$/sanwenyu.html" />
+        <option value="$PROJECT_DIR$/nuomishousi.html" />
+        <option value="$PROJECT_DIR$/haixingshenghao.html" />
+        <option value="$PROJECT_DIR$/wutongfan.html" />
+        <option value="$PROJECT_DIR$/longyantiao.html" />
+        <option value="$PROJECT_DIR$/huotuijidan.html" />
+        <option value="$PROJECT_DIR$/baiyanroutuan.html" />
+        <option value="$PROJECT_DIR$/xianglatianluo.html" />
+        <option value="$PROJECT_DIR$/candouniurou.html" />
+        <option value="$PROJECT_DIR$/jiuxiangu.html" />
+        <option value="$PROJECT_DIR$/muguaguopan.html" />
+        <option value="$PROJECT_DIR$/kaixinwan.html" />
+        <option value="$PROJECT_DIR$/chengzifan.html" />
+        <option value="$PROJECT_DIR$/xianxie.html" />
+        <option value="$PROJECT_DIR$/yangshengtangfan.html" />
+        <option value="$PROJECT_DIR$/youxiangkaoya.html" />
+        <option value="$PROJECT_DIR$/liuyanban.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="毕业设计前端" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="毕业设计前端" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="毕业设计前端" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../后端界面" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\qianduanbibased\毕业设计前端\images" />
+      <recent name="E:\qianduanbibased\毕业设计前端\video" />
+      <recent name="E:\qianduanbibased\毕业设计前端" />
+      <recent name="E:\qianduanbibased\毕业设计前端\bootstrapValidator\jquery-confirm\css" />
+      <recent name="E:\qianduanbibased\毕业设计前端\bootstrapValidator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2631f8fb-d401-4e45-8da1-a2e78a07021b" name="Default" comment="" />
+      <created>1522140097035</created>
+      <updated>1522140097035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13762811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.357142" vertical-offset="860" max-vertical-offset="6479">
+          <caret line="62" column="88" selection-start-line="62" selection-start-column="88" selection-end-line="62" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiaotong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.714286" vertical-offset="803" max-vertical-offset="3135">
+          <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25" vertical-offset="760" max-vertical-offset="5947">
+          <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhuce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.142857" vertical-offset="1794" max-vertical-offset="11951">
+          <caret line="130" column="76" selection-start-line="130" selection-start-column="76" selection-end-line="130" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/xiangcai4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xianglazhudu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.428572" vertical-offset="2994" max-vertical-offset="5586">
+          <caret line="170" column="126" selection-start-line="170" selection-start-column="126" selection-end-line="170" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malatianluo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43716815" vertical-offset="2451" max-vertical-offset="5586">
+          <caret line="142" column="560" selection-start-line="142" selection-start-column="560" selection-end-line="142" selection-end-column="560" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuizhuyu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.464286" vertical-offset="5016" max-vertical-offset="5586">
+          <caret line="253" column="97" selection-start-line="253" selection-start-column="97" selection-end-line="253" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xianglasurou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63893807" vertical-offset="4446" max-vertical-offset="5586">
+          <caret line="253" column="98" selection-start-line="253" selection-start-column="98" selection-end-line="253" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapodoufu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.26902655" vertical-offset="4959" max-vertical-offset="5586">
+          <caret line="253" column="98" selection-start-line="253" selection-start-column="98" selection-end-line="253" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuancai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40353984" vertical-offset="2622" max-vertical-offset="6745">
+          <caret line="150" column="4" selection-start-line="150" selection-start-column="4" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xianglayangza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9005525" vertical-offset="4736" max-vertical-offset="5586">
+          <caret line="275" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="288" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangcai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8318584" vertical-offset="2912" max-vertical-offset="6745">
+          <caret line="178" column="5" selection-start-line="150" selection-start-column="4" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuecai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714" vertical-offset="2831" max-vertical-offset="6745">
+          <caret line="150" column="4" selection-start-line="150" selection-start-column="4" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jingtouhaitai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.142858" vertical-offset="3135" max-vertical-offset="5586">
+          <caret line="177" column="248" selection-start-line="177" selection-start-column="248" selection-end-line="177" selection-end-column="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesetiandian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.142858" vertical-offset="3135" max-vertical-offset="5586">
+          <caret line="177" column="248" selection-start-line="177" selection-start-column="248" selection-end-line="177" selection-end-column="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tilamisu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.928572" vertical-offset="2917" max-vertical-offset="5586">
+          <caret line="177" column="248" selection-start-line="177" selection-start-column="248" selection-end-line="177" selection-end-column="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gongwenyu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.321428" vertical-offset="2850" max-vertical-offset="5586">
+          <caret line="177" column="248" selection-start-line="177" selection-start-column="248" selection-end-line="177" selection-end-column="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frenchcai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.107143" vertical-offset="2679" max-vertical-offset="6745">
+          <caret line="150" column="2" selection-start-line="150" selection-start-column="2" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangzhipangxie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3362832" vertical-offset="2608" max-vertical-offset="5586">
+          <caret line="177" column="251" selection-start-line="0" selection-start-column="0" selection-end-line="288" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koreacai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6785714" vertical-offset="2869" max-vertical-offset="6745">
+          <caret line="150" column="4" selection-start-line="150" selection-start-column="4" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/japancai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.071428" vertical-offset="2969" max-vertical-offset="6745">
+          <caret line="177" column="41" selection-start-line="177" selection-start-column="30" selection-end-line="177" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laopaocai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6053097" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526901591948" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901591948" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901591948" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901591948" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901591948" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lengmian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25" vertical-offset="4674" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526901708464" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901708464" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901708464" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901708464" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901708464" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zicaibaofan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="264" column="86" selection-start-line="264" selection-start-column="86" selection-end-line="264" selection-end-column="86" />
+          <folding>
+            <marker date="1526901829099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829099" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tudouroumobing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.642857" vertical-offset="4617" max-vertical-offset="5586">
+          <caret line="269" column="103" selection-start-line="269" selection-start-column="103" selection-end-line="269" selection-end-column="103" />
+          <folding>
+            <marker date="1526901829090" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829090" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829090" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829090" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901829090" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhajitui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526901885768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885768" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiweishala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94159293" vertical-offset="4617" max-vertical-offset="5586">
+          <caret line="271" column="54" selection-start-line="271" selection-start-column="54" selection-end-line="271" selection-end-column="54" />
+          <folding>
+            <marker date="1526901885781" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885781" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885781" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885781" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901885781" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangzhiniupai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30265486" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="258" column="79" selection-start-line="258" selection-start-column="79" selection-end-line="258" selection-end-column="79" />
+          <folding>
+            <marker date="1526472561450" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526472561450" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526472561450" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526472561450" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526472561450" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yinghuashousi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.964286" vertical-offset="4793" max-vertical-offset="5586">
+          <caret line="264" column="76" selection-start-line="264" selection-start-column="76" selection-end-line="264" selection-end-column="76" />
+          <folding>
+            <marker date="1526901509145" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526901509145" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901509145" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901509145" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901509145" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sanwenyu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902024083" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902024083" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902024083" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902024083" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902024083" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuomishousi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25" vertical-offset="4674" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902048923" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902048923" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902048923" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902048923" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902048923" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haixingshenghao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902074413" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902074413" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902074413" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902074413" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902074413" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wutongfan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428" vertical-offset="4693" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902103899" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902103899" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902103899" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902103899" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902103899" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/longyantiao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50442475" vertical-offset="4788" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902131762" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902131762" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902131762" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902131762" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902131762" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choudoufu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="4793" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1526901386372" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526901386372" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526901386372" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1526901386372" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526901386372" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huotuijidan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1526902203556" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902203556" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902203556" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902203556" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902203556" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiyanroutuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572" vertical-offset="4788" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902224362" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902224362" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902224362" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902224362" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902224362" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xianglatianluo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.035714" vertical-offset="4736" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902251729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902251729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902251729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902251729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902251729" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candouniurou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572" vertical-offset="4788" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902306562" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306562" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306562" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306562" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306562" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiuxiangu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59646016" vertical-offset="4736" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902306552" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306552" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306552" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306552" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902306552" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muguaguopan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572" vertical-offset="4788" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902342794" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902342794" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902342794" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902342794" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902342794" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaixinwan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="4793" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1526902372334" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902372334" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902372334" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902372334" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902372334" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chengzifan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.142858" vertical-offset="4845" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902396147" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902396147" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902396147" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902396147" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902396147" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xianxie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25" vertical-offset="4674" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902425533" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902425533" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902425533" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902425533" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902425533" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangshengtangfan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="4731" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902451100" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902451100" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902451100" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902451100" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902451100" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youxiangkaoya.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7982301" vertical-offset="4622" max-vertical-offset="5586">
+          <caret line="267" column="104" selection-start-line="267" selection-start-column="104" selection-end-line="267" selection-end-column="104" />
+          <folding>
+            <marker date="1526902475223" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902475223" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902475223" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902475223" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1526902475223" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyanban.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.785714" vertical-offset="4902" max-vertical-offset="6669">
+          <caret line="268" column="17" selection-start-line="268" selection-start-column="15" selection-end-line="269" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1526903105787" expanded="true" signature="8302:8341" placeholder="..." />
+            <marker date="1526903105787" expanded="true" signature="10431:10459" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.535714" vertical-offset="2782" max-vertical-offset="11514">
+          <caret line="159" column="56" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dianping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-56.642857" vertical-offset="4228" max-vertical-offset="10849">
+          <caret line="306" column="59" selection-start-line="306" selection-start-column="59" selection-end-line="306" selection-end-column="59" />
+          <folding>
+            <marker date="1526900230551" expanded="false" signature="12672:12711" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30265486" vertical-offset="0" max-vertical-offset="817">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
